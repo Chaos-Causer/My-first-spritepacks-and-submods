@@ -1,7 +1,7 @@
 init 5 python:
     addEvent(Event(persistent.event_database,eventlabel="monika_JustYuri",category=['you'],prompt="You have Just Yuri?!",random=True))
 
-label monika_JustNatsuki:
+label monika_JustYuri:
     m 2lssdlc "Hey, [player]... I have a..."
     m 2wftpsdlc "Pretty important question..."
     m 1hftuc "*Inhales*"
